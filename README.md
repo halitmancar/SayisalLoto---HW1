@@ -1,2 +1,2 @@
 # SayisalLotoo
-This project eliminates the duplicate members of an array and writes the last array.
+This code creates gambling papers and shows them.
